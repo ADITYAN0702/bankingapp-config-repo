@@ -3,7 +3,6 @@ spring:
     url: jdbc:postgresql://localhost:5432/bankingapp-transaction-service
     username: postgres
     password: postgres
-
   kafka:
     bootstrap-servers: localhost:9092
 
